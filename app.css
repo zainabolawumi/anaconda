@@ -1,0 +1,100 @@
+
+.main-body{
+    background-color:whitesmoke;
+    margin: 0px;
+    font-family: 'Rasa', serif;
+    font-weight: 100;
+}
+
+.main-header{
+    padding: 20px;
+}
+#header{
+    margin-left: 70px;
+}
+#search{
+    margin: 30px;
+}
+.logo{
+    margin: 30px;
+    text-align: center;
+}
+#logo{
+    text-align: center;
+}
+#button{
+    margin-bottom: 40px;
+    margin-right: 50px; 
+   
+}
+input[type=text]{
+    width: 80%;
+    padding: 10px;
+    margin: 5px;
+}
+input[type=password]{
+    width: 80%;
+    padding: 10px;
+    margin: 5px;
+}
+.sect{
+    background: rgb(236, 233, 233);
+    margin: 20px;
+}
+#sect{
+    padding:50px;
+    text-align: center;
+
+}
+button{
+    padding:20px;
+}
+li{
+    display: inline-block;
+}
+#img{
+    border-radius: 70%;
+    height: auto;
+    width: 50px;
+    padding: 15px;
+    color:white;
+}
+.image{
+    /* border: 1px solid white; */
+    width: 35px;
+    height: auto;
+    padding:10px;
+    margin: 15px;
+    color:white;
+    background: white;
+}
+.footer{
+    background: rgb(49, 48, 48);
+    color:white;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+#foot{
+    text-align: center;
+    color: white;
+}
+
+#style{
+    text-decoration: none;
+    color:white;
+}#style:hover{
+    color:rgb(90, 88, 88);
+}
+#style-nav{
+    text-decoration: none;
+    color: black;
+}
+#style-nav:hover{
+    color: green;
+}
+#commit{
+   text-align: center;
+   font-size: 20px;
+   margin-right: 50px;
+}
